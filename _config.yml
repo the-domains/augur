@@ -1,6 +1,6 @@
 name: Augur
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.2733
 title: A Decentralized Prediction Market
 cta:
   domain: null
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#612a52'
+    - '#ffffff'
+    - '#c3afbe'
+    - '#744466'
+    - '#9e7d95'
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
