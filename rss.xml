@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Decentralized Prediction Market]]></title>
+        <description><![CDATA[A Decentralized Prediction Market]]></description>
+        <link>https://thegrid.ai/augur/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 10 Oct 2015 20:09:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/augur/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Augur Works]]></title>
+            <description><![CDATA[<article><h1>How Augur Works</h1><p>This is how augur works</p></article>]]></description>
+            <link>https://thegrid.ai/augur/how-augur-works/index.html</link>
+            <guid isPermaLink="false">1c4a62b0-5da8-441d-b369-aa576e6dd840</guid>
+            <pubDate>Sat, 10 Oct 2015 20:03:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
